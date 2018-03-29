@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-###### Selamat Datang di Website Member FlazGliz!!!
+#### Selamat Datang di Website Member FlazGliz!!!
 ![Gambar Logo PT.Gliz](http://www.flazgliz.com/images/logo.png)
 
 >FlazGliz adalah perusahaan Multilevel yang berorientasi untuk memajukan kesejahteraan membernya

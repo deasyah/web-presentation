@@ -6,5 +6,4 @@ layout: post
 
 ### Bagaimana Memulai Bisnis ini???
 
-Silahkan Klik Tombol
-:arrow_down_small:
+Silahkan Klik Tombol Ke Bawah

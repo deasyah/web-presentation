@@ -2,7 +2,8 @@
 layout: post
 ---
 
-##Reward Full Autosave
+![Gambar Reward](https://deasyah.github.io/web-presentation/images/reward.png)
 
-
-![Picture example](http://www.flazgliz.com/images/mplan4.jpg)
+```javascript
+Dibayar dalam bentuk uang tunai
+```
